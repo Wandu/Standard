@@ -1,0 +1,25 @@
+{
+    "name": "wandu/standard",
+    "description": "wandu standard interfaces",
+    "keywords": ["standard interfaces", "interfaces"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Changwan Jun",
+            "email": "im@wani.kr"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wandu\\Standard\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
