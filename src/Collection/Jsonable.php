@@ -1,5 +1,5 @@
 <?php
-namespace Wandu\Standard;
+namespace Wandu\Standard\Collection;
 
 interface Jsonable
 {
