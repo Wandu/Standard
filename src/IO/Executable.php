@@ -1,7 +1,5 @@
 <?php
-namespace Wandu\Standard;
-
-use Wandu\Standard\IO\Writable;
+namespace Wandu\Standard\IO;
 
 interface Executable
 {
