@@ -1,6 +1,6 @@
 {
     "name": "wandu/standard",
-    "description": "wandu standard interfaces and library",
+    "description": "Group of Wandu Standard Interfaces and Traits.",
     "keywords": ["standard", "interfaces", "library", "utility"],
     "license": "MIT",
     "authors": [

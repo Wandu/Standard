@@ -1,5 +1,5 @@
 Wandu Standard
 ===
 
-Group of Wandu Standard Interfaces
+Group of Wandu Standard Interfaces and Traits.
 
